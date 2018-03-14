@@ -1,0 +1,19 @@
+header{
+  margin: 0px;
+}
+.header .slider{
+  margin: 20px;
+}
+.boxes{
+  margin: auto;
+}
+.boxes{
+
+    background: rgba(212, 210, 210, 0.14);
+    border-radius: 4px;
+    border: 1px solid #d0d0d0;
+    padding: 20px 30px;
+}
+.slider .search-btn .btn:hover{
+  background: red;
+}
